@@ -27,5 +27,8 @@ public class UserService {
 		}
 	}
 	 
+
+    System.out.println("Data saved Successfully");	 
   System.out.println("Data successfully Updated Now");	 
+
 }
