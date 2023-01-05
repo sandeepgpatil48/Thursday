@@ -27,5 +27,5 @@ public class UserService {
 		}
 	}
 	 
-	 
+  System.out.println("Data successfully Updated Now");	 
 }
